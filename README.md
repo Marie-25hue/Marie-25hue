@@ -14,7 +14,6 @@
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/mariela-rajoy-2a8999170/)
 - [🤖 NUMA – Chatbot con propósito humano](https://t.me/Numa_purpose_bot)
-- [🧠 Quiz GCP Data Engineer](https://github.com/Marie-25hue/gcp-dataengineer-studytool)
 
 ---
 
